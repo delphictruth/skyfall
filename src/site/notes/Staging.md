@@ -17,9 +17,6 @@
 *Italics*
 ~~Strike~~
 
-	testing testing 
-	testing 
-
 - Bullet even
 	- indented
 	- indented
@@ -36,11 +33,21 @@
 
 <u>Underline</u>[^1]
 
-- [b] test 
-- [ ] test 
+==First Header== | Second Header 
+:------------ | ------------:
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+- [x]  test 
+- [x] test 
 - [ ] test
 
+# Don't work well
+
 `backticks` 
+
+	testing testing 
+	testing 
 
 >[!note] notestyle
 >demo demo
@@ -50,11 +57,6 @@
 
 >[!danger] danger
 >demo demo
-
-==First Header== | Second Header 
-:------------ | ------------:
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 [^1]: Footnote footnote demo
 
