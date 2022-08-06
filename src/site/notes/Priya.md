@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Priya
-Priya is a [] [[Dragon|dragon]], bonded to [[Cain Dreamwalker|Cain Dreamwalker]].
+Priya is a forest green [[Dragon|dragon]], bonded to [[Talia Stormchaser|Talia Stormchaser]].
