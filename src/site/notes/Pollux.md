@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Pollux
-[] is a [] [[Dragon|dragon]], bonded to [].
+Pollux was a teal-green [[Dragon|dragon]], bonded to []. 
