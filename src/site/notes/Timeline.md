@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/timeline/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+- [[SKYFALL|Back to Home]]
+
 # History of Alagaësia
 **5305 AC**[^1] — The first [[Rider Order|Rider Order]] is established following the conclusion of the [[Du Fyrn Skulblaka|Du Fyrn Skulblaka]] and the new-found [[Blödhren Pact|Blödhren Pact]] between [[Dragon|dragons]] and [[Elves|elves]]. This event gives rise to the [[Agaetí Blödhren|Agaetí Blödhren]]. 
 
@@ -24,11 +26,11 @@
 
 **649 ABRW** — [[Cecilé|Cecilé]] is born in [[Ellesméra|Ellesméra]]. 
 
-**660 ABRW** — [[Holland Drottningu|Holland Drottningu]] visits [[Vroengard|Vroengard]]. 
+**660 ABRW** — [[Holland Dröttningu|Holland Dröttningu]] visits [[Vroengard|Vroengard]]. 
 
-**661 ABRW** — [[Holland Drottningu|Holland Drottningu]] and [[Cain Dreamwalker|Cain Dreamwalker]] marry; Holland moves to [[Doru Araeba|Doru Araeba]]. 
+**661 ABRW** — [[Holland Dröttningu|Holland Dröttningu]] and [[Cain Dreamwalker|Cain Dreamwalker]] marry; Holland moves to [[Doru Araeba|Doru Araeba]]. 
 
-**663 ABRW** — [[Eldfyrn|Eldfyrn]] hatches for [[Raegal|Raegal]] [15]. Later that year, [[Cecilé|Cecilé]] [14] moves to [[Doru Araeba|Doru Araeba]] as an [[Ambassador|Ambassador]] to be with her half-sister, [[Holland Drottningu|Holland Drottningu]]. 
+**663 ABRW** — [[Eldfyrn|Eldfyrn]] hatches for [[Raegal|Raegal]] [15]. Later that year, [[Cecilé|Cecilé]] [14] moves to [[Doru Araeba|Doru Araeba]] as an [[Ambassador|Ambassador]] to be with her half-sister, [[Holland Dröttningu|Holland Dröttningu]]. 
 
 **664 ABRW** — 
 
@@ -59,7 +61,7 @@
 
 **683 ABRW** — In the [[Battle of the Spine|Battle of the Spine]], the [[Second Rider Rebellion|Second Rider Rebellion]] concludes. [[Cain Dreamwalker|Cain Dreamwalker]] goes on a mission to track down unaccounted for [[Fallen Riders|Fallen Riders]]; [[Kveykva|Kveykva]] is killed and [[Cain Dreamwalker|Cain Dreamwalker]] does not return.
 
-**684 ABRW** — [[Cole|Cole]] is born and is entrusted to [[Talia Stormchaser|Talia Stormchaser]] and [[Malkyn Warhound|Malkyn Warhound]] when [[Holland Drottningu|Holland Drottningu]] departs to find [[Cain Dreamwalker|Cain Dreamwalker]]. 
+**684 ABRW** — [[Cole|Cole]] is born and is entrusted to [[Talia Stormchaser|Talia Stormchaser]] and [[Malkyn Warhound|Malkyn Warhound]] when [[Holland Dröttningu|Holland Dröttningu]] departs to find [[Cain Dreamwalker|Cain Dreamwalker]]. 
 
 **892 ABRW** — The wild dragons entrust [[Bastille Soulkeeper|Bastille Soulkeeper]] [12] with [[Echo|Echo]]'s [[Eldunarí|Eldunarí]]. 
 
