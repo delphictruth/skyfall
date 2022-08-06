@@ -3,18 +3,19 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Malkyn Warhound
 >Daughter of
 
-Malkyn is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Vahren|Vahren]]. Brief info.
+Malkyn is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Vahren|Vahren]]. She is said to have some [[Urgals|urgal]] blood, though it is difficult to trace her lineage back far enough to verify such claims. Nevertheless, the [[Urgals|urgals]] have claimed her as one of their own.
 
 **Recorded Names**
-- [], given by [], for 
+- Warhound, given by [], for 
 
 **Family & Relations**
 - Parentage: 
-- Extended Family: [[Cain Dreamwalker|Cain Dreamwalker]], [[Holland Drottningu|Holland Drottningu]], [[Cecilé|Cecilé]], [[Bastille Soulkeeper|Bastille Soulkeeper]], [[Versailles Silverblade|Versailles Silverblade]]
+- Extended Family: [[Cain Dreamwalker|Cain Dreamwalker]], [[Holland Dröttningu|Holland Dröttningu]], [[Cecilé|Cecilé]], [[Raegal|Raegal]], [[Bastille Soulkeeper|Bastille Soulkeeper]], [[Versailles Silverblade|Versailles Silverblade]]
 - Significant Other: [[Talia Stormchaser|Talia Stormchaser]]
 - Children: [[Cole|Cole]] 
 
