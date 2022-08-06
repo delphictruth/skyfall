@@ -3,9 +3,10 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Rider's sword
-All [[Dragon Rider|Riders]] receive their own specially crafted sword from the elven smith, [[Rhunön|Rhunön]], generally at the end of the their first phase of training. They are peerless weapons and distinctive. 
+All [[Dragon Rider|Riders]] receive their own specially crafted sword from the elven smith, [[Rhunön|Rhunön]], generally at the end of the their first phase of training. They are peerless weapons and quite distinctive. 
 
 These blades are made from [[Brightsteel|brightsteel]] and will never break, scratch, or dull. They are also immune to magical attacks and can cut through or bypass magic. They cut through most other metals and materials with ease. 
 
