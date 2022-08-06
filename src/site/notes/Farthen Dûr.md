@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Farthen Dûr
 >tagline
