@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Cecilé
 >Friend of the Wild
@@ -14,7 +15,7 @@ Cecilé was a 31 year old [[Elves|elf]] and an [[Ambassador|Ambassador]] from [[
 
 **Family & Relations**
 - Parentage: 
-- Siblings: [[Holland Drottningu|Holland Drottningu]]
+- Siblings: [[Holland Dröttningu|Holland Dröttningu]]
 - Extended Family: [[Cain Dreamwalker|Cain Dreamwalker]], [[Talia Stormchaser|Talia Stormchaser]], [[Malkyn Warhound|Malkyn Warhound]], [[Cole|Cole]]
 - Significant Other: [[Raegal|Raegal]]
 - Children: [[Bastille Soulkeeper|Bastille Soulkeeper]], [[Versailles Silverblade|Versailles Silverblade]]
