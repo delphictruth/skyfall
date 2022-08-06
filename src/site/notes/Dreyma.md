@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Dreyma
 Dreyma ("Illusion") is [[Chevalier|Chevalier]]'s [[Rider's sword|Rider's sword]]. It has a tapered apple-green blade to match his dragon, with slightly darker emeralds dotting the blade. Notably, instead of one large gemstone as is the usual fashion, it has many smaller emeralds that ultimately amount to a greater energy store. It has brushed steel casings and a rather strange grip crafted almost entirely from magically-strengthened glass. While it tends to appear white or light grey, a closer examination shows that it is in fact see-through and quite jarring to look at. The design is intentionally busy and confusing on the eyes, such as to distract an opponent. 
