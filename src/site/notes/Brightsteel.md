@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Brightsteel
 
