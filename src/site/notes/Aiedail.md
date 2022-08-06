@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Aiedail
 Aiedail ("morning-star") is [[Bastille Soulkeeper|Bastille Soulkeeper]]'s [[Rider's sword|Rider's sword]]. 
