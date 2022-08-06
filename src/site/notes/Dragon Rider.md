@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Dragon Rider
 The Dragon Riders live separate from the other races and are expected to act as upholders of justice and peace. [[Dragon|Dragons]] will only hatch for their chosen Rider, and the two are bonded the second that they touch for the first time. The bond with their dragon grants Riders near immortality and great use of [[Magic|magic]]. Riders bear the **gedwëy ignasia** ("shining palm") mark on one palm, which appears when they touch their dragon the first time; it is silvery and glows when they use magic.
