@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Islingr
 Islingr ("light-bringer") is [[Hazel Goldenblood|Hazel Goldenblood]]'s [[Rider's sword|Rider's sword]]. 
