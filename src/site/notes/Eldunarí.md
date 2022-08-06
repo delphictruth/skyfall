@@ -3,9 +3,12 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Eldunarí
-An Eldunarí is a [[Dragon|dragons]]'s heart of hearts, or perhaps more accurately considered their soul. They are hard, gem-like structures that grow in the dragon's chest throughout their life. If they wish, the dragon can release their Eldunarí and thus live on through it once their body dies. 
+>Heart of hearts
+
+An Eldunarí is a [[Dragon|dragon]]'s heart of hearts, or perhaps more accurately considered their soul. They are hard, gem-like structures that grow in the dragon's chest throughout their life. If they wish, the dragon can release their Eldunarí and thus live on through it once their body dies. 
 
 Additionally, an Eldunarí is considered an extension of the dragon even during life. With it, someone can hear and speak to the dragon from anywhere, no matter how far from the dragon they are. It also allows the dragon to provide energy, so they can be extremely important resources for [[Dragon Rider|Riders]]. 
 
