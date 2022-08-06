@@ -3,6 +3,9 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Fall of the Dragon Riders
+>7886–1900 AC
+
 Historic event, referring to the era between 7886–7900 AC (though mostly 7900 AC). Concludes the [[Dragon War|Dragon War]]. 
