@@ -3,8 +3,11 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Du Fyrn Skulblaka
+>Pre–5305 AC
+
 "The Dragon War" in the [[Ancient Language|Ancient Language]], though not to be confused with another, later war by the name [[Dragon War|Dragon War]]. 
 
 This historic war was catastrophic, a war between the [[Elves|elves]] and [[Dragon|dragons]]. Many hundreds of both races died before the war came to an end. 
