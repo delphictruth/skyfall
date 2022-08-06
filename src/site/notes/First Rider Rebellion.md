@@ -3,8 +3,11 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # First Rider Rebellion
+>666–667 ABRW
+
 Launched in 666 ABRW, when [[Raegal|Raegal]] led the [[King Pirphal|Sorcerer King]]'s order of Riders against the [[New Rider Order|New Rider Order]]. It is considered a rebellion and not a purely external attack because he recruited several other Riders from the [[New Rider Order|Order]] as well. 
 
 The goal seemed to be to seize control of [[Vroengard|Vroengard]], such that [[King Pirphal|King Pirphal]] could station his own Riders there and ultimately convert the remainder of the Order to his cause as well. 
