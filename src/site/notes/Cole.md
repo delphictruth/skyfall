@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Cole
 >Son of
@@ -13,7 +14,7 @@
 - [], given by [], for 
 
 **Family & Relations**
-- Parentage: [[Holland Drottningu|Holland Drottningu]] and [[Cain Dreamwalker|Cain Dreamwalker]], adopted and raised by [[Talia Stormchaser|Talia Stormchaser]] and [[Malkyn Warhound|Malkyn Warhound]]
+- Parentage: [[Holland Dröttningu|Holland Dröttningu]] and [[Cain Dreamwalker|Cain Dreamwalker]], adopted and raised by [[Talia Stormchaser|Talia Stormchaser]] and [[Malkyn Warhound|Malkyn Warhound]]
 - Siblings: 
 - Extended Family: [[Cecilé|Cecilé]], [[Bastille Soulkeeper|Bastille Soulkeeper]], [[Versailles Silverblade|Versailles Silverblade]]
 
