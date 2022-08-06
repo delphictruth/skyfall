@@ -3,8 +3,11 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Second Rider Rebellion
+>year AC
+
 After their defeat in the [[First Rider Rebellion|First Rider Rebellion]] and the capture of their commander, the remaining [[Fallen Riders|Fallen Riders]] returned to [[Surda|Surda]] and essentially disappeared. 
 
 However, the [[King Pirphal|Sorcerer King]] worked in secret to restore those who remained to prior and even greater strength. He was also able to pair several more eggs with new Riders, regrowing their forces. 
