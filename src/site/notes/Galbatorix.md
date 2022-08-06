@@ -3,8 +3,11 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Galbatorix
-The infamous King of [[Alagaësia|Alagaësia]], otherwise known as the [[Dragon Rider|Rider]] who led the [[Forsworn|Forsworn]] and triggered the [[Fall of the Dragon Riders|Fall of the Dragon Riders]]. 
+>King of the Broddring Empire
+
+The infamous King of the [[Broddring Empire|Broddring Empire]], otherwise known as the [[Dragon Rider|Rider]] who led the [[Forsworn|Forsworn]] and triggered the [[Fall of the Dragon Riders|Fall of the Dragon Riders]]. 
 
 He was defeated at the end of the [[Rider War|Rider War]]. 
