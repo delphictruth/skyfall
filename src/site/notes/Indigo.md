@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Indigo
 >Founder of the [[New Rider Order|New Rider Order]]
