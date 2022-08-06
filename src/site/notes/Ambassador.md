@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Ambassador
 The various races traditionally have Ambassadors to represent them to the [[Dragon Rider|Riders]] on [[Vroengard|Vroengard]]. They may also be dispatched to speak with the other races as well, such as an [[Elves|elven]] Ambassador being sent to [[Tronjheim|Tronjheim]]. 
