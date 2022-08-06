@@ -3,6 +3,7 @@
 ---
 
 - [[SKYFALL|Back to Home]]
+- [[Timeline|To Timeline]]
 
 # Raegal
 >Son of
@@ -13,7 +14,7 @@ Raegal was a 31 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[E
 - [], given by [], for 
 
 **Family & Relations**
-- Parentage: 
+- Parentage: [[Wilhelm|Wilhelm]] 
 - Extended Family: 
 - Significant Other: [[Cecilé|Cecilé]]
 - Children: [[Bastille Soulkeeper|Bastille Soulkeeper]]
