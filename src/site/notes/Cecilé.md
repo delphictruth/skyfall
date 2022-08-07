@@ -14,7 +14,7 @@ Cecilé was a 31 year old [[Elves|elf]] and an [[Ambassador|Ambassador]] from [[
 - [], given by [], for 
 
 **Family & Relations**
-- Parentage: 
+- Parentage: [[Melody Rosesinger|Melody Rosesinger]] and [[Byron Könungr|Byron Könungr]]
 - Siblings: [[Holland Dröttningu|Holland Dröttningu]]
 - Extended Family: [[Cain Dreamwalker|Cain Dreamwalker]], [[Talia Stormchaser|Talia Stormchaser]], [[Malkyn Warhound|Malkyn Warhound]], [[Cole|Cole]]
 - Significant Other: [[Raegal|Raegal]]
