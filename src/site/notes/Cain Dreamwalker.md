@@ -11,7 +11,7 @@
 Cain is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Kveykva|Kveykva]]. Despite his human heritage, his mother was an ambassador to the [[Elves|elves]] and as such he grew up primarily in [[Ellesméra|Ellesméra]] with her and his sister, [[Talia Stormchaser|Talia Stormchaser]]. 
 
 **Recorded Names**
-- Dreamwalker, given by [], for his ability to [[Scrying|Scrying]] dreams
+- Dreamwalker, given by [], for his ability to [[Scrying|scry]] dreams
 - Silvertongue, given by [], for his cleverness
 
 **Family & Relations**
