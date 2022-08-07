@@ -19,6 +19,7 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 - Friend of the Werecats, typical of those with [[Werecat|Werecat]] companions
 - Shur'tugal ("Dragon Rider"), typical of all [[Dragon Rider|Riders]] ([[Ancient Language|Ancient Language]])
 - Argetlam ("Silverhand"), typical of all [[Dragon Rider|Riders]] ([[Ancient Language|Ancient Language]])
+- Hilmir, very rarely, for his relation to [[Byron Könungr|Byron Könungr]]
 
 **Family & Relations**
 - Parentage: [[Cecilé|Cecilé]] and [[Raegal|Raegal]]
