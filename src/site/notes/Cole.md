@@ -12,6 +12,7 @@
 
 **Recorded Names**
 - [], given by [], for 
+- Hilmir, very rarely, for his relation to [[Holland Dröttningu|Holland Dröttningu]] and [[Iasis Dröttning|Iasis Dröttning]]
 
 **Family & Relations**
 - Parentage: [[Holland Dröttningu|Holland Dröttningu]] and [[Cain Dreamwalker|Cain Dreamwalker]], adopted and raised by [[Talia Stormchaser|Talia Stormchaser]] and [[Malkyn Warhound|Malkyn Warhound]]
