@@ -16,7 +16,7 @@ Talia is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Pri
 **Family & Relations**
 - Parentage: [[Felicity|Felicity]] and [[Norman|Norman]]
 - Siblings: [[Cain Dreamwalker|Cain Dreamwalker]]
-- Extended Family: [[Holland Dröttningu|Holland Dröttningu]], [[Cecilé|Cecilé]], [[Bastille Soulkeeper|Bastille Soulkeeper]], [[Versailles Silverblade|Versailles Silverblade]]
+- Extended Family: [[Holland Dröttningu|Holland Dröttningu]], [[Cecilé Dragonsong|Cecilé Dragonsong]], [[Bastille Soulkeeper|Bastille Soulkeeper]], [[Versailles Silverblade|Versailles Silverblade]]
 - Significant Other: [[Malkyn Warhound|Malkyn Warhound]]
 - Children: [[Cole|Cole]] 
 
