@@ -18,4 +18,4 @@
 - Siblings: 
 - Extended Family:
 - Significant Other: [[Iasis Dröttning|Iasis Dröttning]]
-- Children: [[Holland Dröttningu|Holland Dröttningu]], [[Cecilé|Cecilé]]
+- Children: [[Holland Dröttningu|Holland Dröttningu]], [[Cecilé Dragonsong|Cecilé Dragonsong]]
