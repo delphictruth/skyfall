@@ -16,7 +16,7 @@ Raegal was a 31 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[E
 **Family & Relations**
 - Parentage: [[Wilhelm|Wilhelm]] and [[Arabella|Arabella]]
 - Extended Family: 
-- Significant Other: [[Cecilé|Cecilé]]
+- Significant Other: [[Cecilé Dragonsong|Cecilé Dragonsong]]
 - Children: [[Bastille Soulkeeper|Bastille Soulkeeper]]
 
 ## Blade Name
