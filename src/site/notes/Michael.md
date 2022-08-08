@@ -14,10 +14,10 @@ Michael was a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 - [], given by [], for 
 
 **Family & Relations**
-- Parentage: 
-- Siblings: 
-- Extended Family: 
-- Significant Other:
+- Parentage: [[Christopher|Christopher]] and [[Diana|Diana]]
+- Siblings: [[Stephen|Stephen]] 
+- Extended Family: [[Gabriel|Gabriel]], [[Sophie|Sophie]], [[Benjamin|Benjamin]]
+- Significant Other: [[Chloë|Chloë]]
 - Children: [[Drew|Drew]], [[Chevalier|Chevalier]] 
 
 ## Blade Name
