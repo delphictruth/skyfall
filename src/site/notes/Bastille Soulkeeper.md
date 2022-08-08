@@ -8,7 +8,7 @@
 # Bastille Soulkeeper
 >Favored of the dragons
 
-Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Octavia|Octavia]]. He has [[Elves|elven]] blood from his mother, [[Cecilé|Cecilé]], and therefore looks as if he has been a [[Dragon Rider|Rider]] for longer than he actually has been (on account of the [[Dragon Rider|Riders]] typically undergoing a gradual change in their appearance after bonding). 
+Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Octavia|Octavia]]. He has [[Elves|elven]] blood from his mother, [[Cecilé Dragonsong|Cecilé Dragonsong]], and therefore looks as if he has been a [[Dragon Rider|Rider]] for longer than he actually has been (on account of the [[Dragon Rider|Riders]] typically undergoing a gradual change in their appearance after bonding). 
 
 **Recorded Names**
 - Raegalsson, given by [[Human|humans]], for his heritage
@@ -22,7 +22,7 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 - Hilmir, very rarely, for his relation to [[Byron Könungr|Byron Könungr]]
 
 **Family & Relations**
-- Parentage: [[Cecilé|Cecilé]] and [[Raegal|Raegal]]
+- Parentage: [[Cecilé Dragonsong|Cecilé Dragonsong]] and [[Raegal|Raegal]]
 - Siblings: [[Versailles Silverblade|Versailles Silverblade]]
 - Extended Family: [[Holland Dröttningu|Holland Dröttningu]], [[Cain Dreamwalker|Cain Dreamwalker]], [[Talia Stormchaser|Talia Stormchaser]], [[Malkyn Warhound|Malkyn Warhound]], [[Cole|Cole]]
 - Significant Other: [[Hazel Goldenblood|Hazel Goldenblood]]
