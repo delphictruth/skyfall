@@ -11,4 +11,5 @@ The various races traditionally have Ambassadors to represent them to the [[Drag
 They are also at times responsible for ferrying [[Dragon|dragon]] eggs back to their people, such as to help look for their chosen [[Dragon Rider|Riders]], but that role has largely returned to the [[New Rider Order|New Rider Order]]. 
 
 **Known Ambassadors**
-- [[Cecilé|Cecilé]], [[Elves|elven]] ambassador to the [[Dragon Rider|Riders]]
+- [[Cecilé Dragonsong|Cecilé Dragonsong]], [[Elves|elven]] ambassador to the [[Dragon Rider|Riders]]
+- [[Felicity|Felicity]], [[Human|human]] ambassador to the [[Elves|elves]]
