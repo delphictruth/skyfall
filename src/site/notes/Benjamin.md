@@ -10,11 +10,14 @@
 
 info
 
-**Known Names**
+## Personal Information
+
+##### Known Names
 - [], given by [], for 
 
-**Family & Relations**
-- Parentage: [[Gabriel|Gabriel]] and [[Sophie|Sophie]]
+##### Family & Relations
+- Parentage: 
+	- [[Gabriel|Gabriel]] and [[Sophie|Sophie]]
 - Siblings: None on record
 - Extended Family: [[Chloë|Chloë]], [[Michael|Michael]], [[Drew|Drew]], [[Chevalier|Chevalier]]
 - Significant Other: 
