@@ -10,11 +10,16 @@
 
 info
 
-**Known Names**
+##### Known Names
 - [], given by [], for 
 
-**Family & Relations**
-- Parentage: 
-- Siblings:
+##### Family & Relations
+- Parentage: Unrecorded
+- Siblings: 
 - Extended Family:
-- Significant Other:
+	- [[Drew|Drew]] (grandchild)
+	- [[Chevalier|Chevalier]] (grandchild)
+- Significant Other: 
+- Children:
+	- [[Michael|Michael]]
+	- [[Stephen|Stephen]]
