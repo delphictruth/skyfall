@@ -12,12 +12,17 @@ Melody was a [[Human|human]] artist who was invited to live in [[Ellesméra|Elle
 
 She is also notable for having been asked by Queen [[Iasis Dröttning|Iasis Dröttning]] to act as a surrogate, given Iasis' inability to have children after [[Holland Dröttningu|Holland Dröttningu]]. Seeing as Melody was both human and already acknowledged by the elves for her talents, she seemed the appropriate choice. As such, Melody carried [[Byron Könungr|Byron Könungr]]'s daughter, [[Cecilé Dragonsong|Cecilé Dragonsong]], but ended up raising her mostly herself when she was too attached to give up full care of her. Instead, [[Iasis Dröttning|Iasis Dröttning]] and [[Byron Könungr|Byron Könungr]] treated [[Cecilé Dragonsong|Cecilé Dragonsong]] more as a niece than a foster-daughter, leaving her largely in Melody's care. 
 
-**Known Names**
+##### Known Names
 - Rosesinger, by the [[Elves|elves]], for her affinity for roses
 
-**Family & Relations**
+##### Family & Relations
 - Parentage: Unrecorded
 - Siblings: Unrecorded
-- Extended Family: [[Holland Dröttningu|Holland Dröttningu]]
+- Extended Family: 
+	- [[Holland Dröttningu|Holland Dröttningu]] (niece*)
+	- [[Raegal|Raegal]] (son-in-law)
+	- [[Bastille Soulkeeper|Bastille Soulkeeper]] (grandchild)
+	- [[Versailles Silverblade|Versailles Silverblade]] (grandchild)
 - Significant Other: None on record
-- Children: [[Cecilé Dragonsong|Cecilé Dragonsong]]
+- Children: 
+	- [[Cecilé Dragonsong|Cecilé Dragonsong]]
