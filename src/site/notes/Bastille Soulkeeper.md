@@ -24,8 +24,11 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 - Hilmir, very rarely, for his relation to [[Byron Könungr|Byron Könungr]]
 
 **Family & Relations**
-- Parentage: [[Cecilé Dragonsong|Cecilé Dragonsong]] and [[Raegal|Raegal]]
-- Siblings: [[Versailles Silverblade|Versailles Silverblade]]
+- Parentage: 
+	- [[Cecilé Dragonsong|Cecilé Dragonsong]] (biological)
+	- [[Raegal|Raegal]] (biological)
+- Siblings: 
+	- [[Versailles Silverblade|Versailles Silverblade]]
 - Extended Family: 
 	- [[Holland Dröttningu|Holland Dröttningu]] (aunt)
 		- [[Cain Dreamwalker|Cain Dreamwalker]] (uncle via Holland)
