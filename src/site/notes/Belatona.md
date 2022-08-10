@@ -8,5 +8,9 @@
 # Belatona
 >The craftsmans' city
 
+info
+
+##### Significant Locations
+- 
 
 ## Visuals
