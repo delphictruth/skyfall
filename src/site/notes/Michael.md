@@ -6,19 +6,34 @@
 - [[Timeline|To Timeline]]
 
 # Michael
->Son of
+>tag
 
-Michael was a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Niernen|Niernen]]. 
+Michael was a 55 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Niernen|Niernen]]. 
 
-**Recorded Names**
+## Personal Information
+
+##### Recorded Names
 - [], given by [], for 
 
-**Family & Relations**
-- Parentage: [[Christopher|Christopher]] and [[Diana|Diana]]
-- Siblings: [[Stephen|Stephen]] 
-- Extended Family: [[Gabriel|Gabriel]], [[Sophie|Sophie]], [[Benjamin|Benjamin]]
+##### Family & Relations
+- Parentage: 
+	- [[Diana|Diana]] (biological)
+	- [[Christopher|Christopher]] (biological)
+- Siblings: 
+	- [[Stephen|Stephen]] 
+- Extended Family: 
+	- [[Gabriel|Gabriel]] (brother-in-law)
+		- [[Sophie|Sophie]] (sister-in-law via Gabriel)
+	- [[Benjamin|Benjamin]] (nephew)
 - Significant Other: [[Chloë|Chloë]]
-- Children: [[Drew|Drew]], [[Chevalier|Chevalier]] 
+- Children: 
+	- [[Drew|Drew]]
+	- [[Chevalier|Chevalier]] 
 
-## Blade Name
-Michael carried the blade [] (""). 
+##### Rider Information
+- Status: Deceased ([[Indlvarn|Indlvarn]])
+- Dragon: [[Niernen|Niernen]] ([[Eldunarí|Eldunarí]])
+- Sword: 
+- Magic: Silver
+
+## History
