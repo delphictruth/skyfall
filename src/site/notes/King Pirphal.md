@@ -9,3 +9,13 @@
 > The Sorcerer King
 
 King of [[Surda|Surda]]. 
+
+##### Family & Relations
+- Parentage:
+- Siblings:
+	- [[Hadrian|Hadrian]]
+- Extended Family:
+	- [[Cadmus|Cadmus]] (nephew)
+- Significant Other:
+- Children:
+	- [[Hazel Goldenblood|Hazel Goldenblood]]
