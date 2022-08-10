@@ -12,7 +12,7 @@ These blades are made from [[Brightsteel|brightsteel]] and will never break, scr
 
 The blades of these swords are made to match the scales of the Rider's [[Dragon|dragon]], and have a slightly translucent look to them. They all have a gemstone in the hilt that matches the blade as well, for Riders to store energy in. The hilt itself and design of the blade are determined by the personality of the Rider, however. Each one is designed to be a perfect match to their body and fighting style. They are all named, and bear the [[Glyph|glyph]] of their name on the blade, in the [[Ancient Language|Ancient Language]].
 
-**Existing Rider Swords**
+##### Existing Rider Swords
 - [[Aiedail|Aiedail]] ([[Bastille Soulkeeper|Bastille Soulkeeper]])
 - [[Islingr|Islingr]] ([[Hazel Goldenblood|Hazel Goldenblood]])
 - [[Dreyma|Dreyma]] ([[Chevalier|Chevalier]])
