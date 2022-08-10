@@ -10,11 +10,19 @@
 
 info
 
-**Known Names**
+##### Known Names
 - [], given by [], for 
 
 **Family & Relations**
 - Parentage: 
 - Siblings:
 - Extended Family:
+	- [[Michael|Michael]] (son-in-law)
+	- [[Drew|Drew]] (grandchild)
+	- [[Chevalier|Chevalier]] (grandchild)
+	- [[Sophie|Sophie]] (daughter-in-law)
+	- [[Benjamin|Benjamin]] (grandchild)
 - Significant Other:
+- Children:
+	- [[Chloë|Chloë]]
+	- [[Gabriel|Gabriel]]
