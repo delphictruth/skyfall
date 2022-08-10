@@ -13,6 +13,8 @@
 
 **2 ABRW** — [[Eragon II|Eragon II]] departs [[Alagaësia|Alagaësia]] to establish a new Order to the east. [[Grimm|Grimm]] is one of the few [[Eldunarí|Eldunarí]] that remains in [[Alagaësia|Alagaësia]], to watch over [[Vroengard|Vroengard]]. 
 
+**250 ABRW** — The last remnants of the magical regulations are finally revoked in the [[Broddring Empire|Broddring Kingdom]].
+
 **300 ABRW** — Wild dragons have begun to repopulate [[Vroengard|Vroengard]], presumably travelling from the [[Dragon Rider|Riders]] in the east. 
 
 **302 ABRW** — [[Echo|Echo]] hatches for [[Indigo|Indigo]] [20], the first bonded pair in the new era. 
