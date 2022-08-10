@@ -10,6 +10,8 @@
 
 Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Octavia|Octavia]]. He has [[Elves|elven]] blood from his mother, [[Cecilé Dragonsong|Cecilé Dragonsong]], and therefore looks as if he has been a [[Dragon Rider|Rider]] for longer than he actually has been (on account of the [[Dragon Rider|Riders]] typically undergoing a gradual change in their appearance after bonding). 
 
+## Personal Information
+
 **Recorded Names**
 - Raegalsson, given by [[Human|humans]], for his heritage
 - Soulkeeper, given by [[Dragon Rider|Riders]], for the number of [[Eldunarí|Eldunarí]] that have been gifted to him by the wild dragons
@@ -24,8 +26,18 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 **Family & Relations**
 - Parentage: [[Cecilé Dragonsong|Cecilé Dragonsong]] and [[Raegal|Raegal]]
 - Siblings: [[Versailles Silverblade|Versailles Silverblade]]
-- Extended Family: [[Holland Dröttningu|Holland Dröttningu]], [[Cain Dreamwalker|Cain Dreamwalker]], [[Talia Stormchaser|Talia Stormchaser]], [[Malkyn Warhound|Malkyn Warhound]], [[Cole|Cole]]
+- Extended Family: 
+	- [[Holland Dröttningu|Holland Dröttningu]] (aunt)
+	- [[Cain Dreamwalker|Cain Dreamwalker]] (uncle)
+	- [[Talia Stormchaser|Talia Stormchaser]] (aunt)
+	- [[Malkyn Warhound|Malkyn Warhound]] (aunt)
+	- [[Cole|Cole]] (cousin)
 - Significant Other: [[Hazel Goldenblood|Hazel Goldenblood]]
 
-## Aiedail
-Bastille carries the blade [[Aiedail|Aiedail]] ("morning-star"). 
+**Rider Information**
+- Status: Active
+- Dragon: [[Octavia|Octavia]]
+- Sword: [[Aiedail|Aiedail]] ("morning-star")
+- Magic: Black
+
+## History
