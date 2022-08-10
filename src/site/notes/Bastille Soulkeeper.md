@@ -31,6 +31,7 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 		- [[Cain Dreamwalker|Cain Dreamwalker]] (uncle via Holland)
 		- [[Talia Stormchaser|Talia Stormchaser]] (aunt via Holland)
 		- [[Malkyn Warhound|Malkyn Warhound]] (aunt via Talia)
+		- [[FeralKid|FeralKid]] (cousin via Talia)
 	- [[Cole|Cole]] (cousin)
 	- [[Melody Rosesinger|Melody Rosesinger]] (grandmother)
 	- [[Byron Könungr|Byron Könungr]] (grandfather)
