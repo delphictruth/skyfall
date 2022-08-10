@@ -29,16 +29,3 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 
 ## Aiedail
 Bastille carries the blade [[Aiedail|Aiedail]] ("morning-star"). 
-
-## Family Tree View
-```mermaid
-flowchart LR
-1[Bastille Soulkeeper] --- 2[Cecilé Dragonsong] & 3[Raegal]
-2 --- 4[Melody Rosesinger] & 5[Byron Könungr]
-6[Holland Dröttningu] --- 7[Iasis Dröttning] & 5
-8[Cole] --- 6 & 9[Cain Dreamwalker]
-9 & 10[Talia Stormchaser] --- 11[Felicity] & 12[Norman]
-8 -.- 10 & 13[Malkyn Warhound]
-
-class 1,2,3,4,5,6,7,8,9,10,11,12,13 internal-link;
-```
