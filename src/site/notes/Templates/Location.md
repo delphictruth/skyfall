@@ -8,5 +8,9 @@
 # Name
 >tagline
 
+info
+
+##### Significant Locations
+- 
 
 ## Visuals
