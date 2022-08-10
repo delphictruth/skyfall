@@ -6,20 +6,29 @@
 - [[Timeline|To Timeline]]
 
 # Name
->Son of
+>tag
 
 [] is a [] year old [] [[Dragon Rider|Rider]], bonded with []. Brief info.
 
-**Recorded Names**
+##### Recorded Names
 - [], given by [], for 
 - Shur'tugal ("Dragon Rider"), typical of all [[Dragon Rider|Riders]] ([[Ancient Language|Ancient Language]])
 - Argetlam ("Silverhand"), typical of all [[Dragon Rider|Riders]] ([[Ancient Language|Ancient Language]])
 
-**Family & Relations**
+##### Family & Relations
 - Parentage: 
+	- 
 - Siblings:
 - Extended Family:
+	- 
 - Significant Other:
+- Children:
+	- 
 
-## Blade Name
-[] carries the blade [] (""). 
+##### Rider Information
+- Status:
+- Dragon:
+- Sword:
+- Magic:
+
+## History
