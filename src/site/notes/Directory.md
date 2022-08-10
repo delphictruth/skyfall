@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/directory/","dgHomeLink":false,"dgPassFrontmatter":false}
+---
+
+# Directory
+## Characters
+- [[Arabella|Arabella]]
+- [[Bastille Soulkeeper|Bastille Soulkeeper]]
+- [[Benjamin|Benjamin]]
+- [[Byron Könungr|Byron Könungr]]
+- [[Cain Dreamwalker|Cain Dreamwalker]]
+- [[Cecilé Dragonsong|Cecilé Dragonsong]]
+- [[Chevalier|Chevalier]]
+- [[Chloë|Chloë]]
+- [[Christopher|Christopher]]
+- [[Cole|Cole]]
+- [[Diana|Diana]]
+- [[Drew|Drew]]
+- [[Felicity|Felicity]]
+- [[FeralKid|FeralKid]]
+- [[Gabriel|Gabriel]]
+- [[Hagatha|Hagatha]]
+- [[Hasina|Hasina]]
+- [[Hazel Goldenblood|Hazel Goldenblood]]
+- [[Holland Dröttningu|Holland Dröttningu]]
+- [[Indigo|Indigo]]
+- [[King Pirphal|King Pirphal]]
+- [[Lacrimosa|Lacrimosa]]
+- [[Lord Blake|Lord Blake]]
+- [[Malkyn Warhound|Malkyn Warhound]]
+- [[Melody Rosesinger|Melody Rosesinger]]
+- [[Michael|Michael]]
+- [[Norman|Norman]]
+- [[Queen Nasuada|Queen Nasuada]]
+- [[Raegal|Raegal]]
+- [[Raphael|Raphael]]
+- [[Rhunön|Rhunön]]
+- [[Sophie|Sophie]]
+- [[Stephen|Stephen]]
+- [[Talia Stormchaser|Talia Stormchaser]]
+- [[Versailles Silverblade|Versailles Silverblade]]
+- [[Wilhelm|Wilhelm]]
+
