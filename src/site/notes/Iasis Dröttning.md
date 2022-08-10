@@ -10,12 +10,16 @@
 
 
 
-**Recorded Names**
+##### Recorded Names
 - Dröttning, given by [[Elves|elves]], a title for queen
 
-**Family & Relations**
+##### Family & Relations
 - Parentage: 
-- Siblings: 
+- Siblings: None on record
 - Extended Family:
+	- [[Cecilé Dragonsong|Cecilé Dragonsong]] (niece*)
+	- [[Cain Dreamwalker|Cain Dreamwalker]] (son-in-law)
+	- [[Cole|Cole]] (grandchild)
 - Significant Other: [[Byron Könungr|Byron Könungr]]
-- Children: [[Holland Dröttningu|Holland Dröttningu]]
+- Children:
+	- [[Holland Dröttningu|Holland Dröttningu]]
