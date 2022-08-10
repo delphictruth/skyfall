@@ -12,7 +12,7 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 
 ## Personal Information
 
-**Recorded Names**
+### Recorded Names
 - Raegalsson, given by [[Human|humans]], for his heritage
 - Soulkeeper, given by [[Dragon Rider|Riders]], for the number of [[Eldunarí|Eldunarí]] that have been gifted to him by the wild dragons
 - Mindbreaker, given by [[Elves|elves]], for his talent for silent and mental magic
@@ -23,7 +23,7 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 - Argetlam ("Silverhand"), typical of all [[Dragon Rider|Riders]] ([[Ancient Language|Ancient Language]])
 - Hilmir, very rarely, for his relation to [[Byron Könungr|Byron Könungr]]
 
-**Family & Relations**
+### Family & Relations
 - Parentage: 
 	- [[Cecilé Dragonsong|Cecilé Dragonsong]] (biological)
 	- [[Raegal|Raegal]] (biological)
@@ -42,7 +42,7 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 	- [[Wilhelm|Wilhelm]] (grandfather)
 - Significant Other: [[Hazel Goldenblood|Hazel Goldenblood]]
 
-**Rider Information**
+### Rider Information
 - Status: Dragon Rider
 - Dragon: [[Octavia|Octavia]]
 - Sword: [[Aiedail|Aiedail]] ("morning-star")
