@@ -16,7 +16,7 @@ The size of an Eldunarí depends on the age and size of the dragon at the time t
 
 Eldunarí does literally mean "heart of hearts" in the [[Ancient Language|Ancient Language]], with the plural form of Eldunarya. 
 
-**Known Eldunarya**
+##### Known Eldunarya
 - [[Grimm|Grimm]]
 - [[Echo|Echo]]
 - [[Pollux|Pollux]]
