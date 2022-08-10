@@ -8,16 +8,34 @@
 # Versailles Silverblade
 >Daughter of
 
-Talia is a [] year old [] [[Dragon Rider|Rider]], bonded with []. Brief info.
+Versailles is a [] year old [] [[Dragon Rider|Rider]], bonded with []. Brief info.
 
-**Recorded Names**
-- [], given by [], for 
+##### Recorded Names
+- Silverblade, given by [], for 
 
-**Family & Relations**
-- Parentage: [[Cecilé Dragonsong|Cecilé Dragonsong]] and [[Raegal|Raegal]]
-- Siblings: [[Bastille Soulkeeper|Bastille Soulkeeper]]
-- Extended Family: [[Holland Dröttningu|Holland Dröttningu]], [[Cain Dreamwalker|Cain Dreamwalker]], [[Talia Stormchaser|Talia Stormchaser]], [[Malkyn Warhound|Malkyn Warhound]], [[Cole|Cole]]
+##### Family & Relations
+- Parentage: 
+	- [[Cecilé Dragonsong|Cecilé Dragonsong]] (biological)
+	- [[Raegal|Raegal]] (biological)
+- Siblings: 
+	- [[Bastille Soulkeeper|Bastille Soulkeeper]]
+- Extended Family: 
+	- [[Holland Dröttningu|Holland Dröttningu]] (aunt)
+		- [[Cain Dreamwalker|Cain Dreamwalker]] (uncle via Holland)
+		- [[Talia Stormchaser|Talia Stormchaser]] (aunt via Cain)
+		- [[Malkyn Warhound|Malkyn Warhound]] (aunt via Talia)
+		- [[FeralKid|FeralKid]] (cousin via Talia)
+	- [[Cole|Cole]] (cousin)
+	- [[Melody Rosesinger|Melody Rosesinger]] (grandmother)
+	- [[Byron Könungr|Byron Könungr]] (grandfather)
+	- [[Arabella|Arabella]] (grandmother)
+	- [[Wilhelm|Wilhelm]] (grandfather)
 - Significant Other: [[Bastille Soulkeeper|Bastille Soulkeeper]] 
 
-## Blade Name
-[] carries the blade [] (""). 
+##### Rider Information
+- Status: Not yet active 
+- Dragon:
+- Sword:
+- Magic: Purple 
+
+## History 
