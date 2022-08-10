@@ -6,20 +6,34 @@
 - [[Timeline|To Timeline]]
 
 # Lacrimosa
->Son of
+>tag
 
- Lacrimosa is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with []. Brief info.
+ Lacrimosa is a 23 year old [[Human|human]] [[Dragon Rider|Rider]], to be bonded with [[Iustitia|Iustitia]]. Brief info.
 
-**Recorded Names**
+## Personal Information
+
+##### Recorded Names
 - [], given by [], for 
 - Shur'tugal ("Dragon Rider"), typical of all [[Dragon Rider|Riders]] ([[Ancient Language|Ancient Language]])
 - Argetlam ("Silverhand"), typical of all [[Dragon Rider|Riders]] ([[Ancient Language|Ancient Language]])
 
-**Family & Relations**
+##### Family & Relations
 - Parentage: 
+	- [[Coreen|Coreen]] (biological)
+	- [[Erickson|Erickson]] (biological)
 - Siblings:
+	- [[Hasina|Hasina]]
 - Extended Family:
-- Significant Other:
+	- [[Juliette|Juliette]] (sister-in-law)
+	- [[Drew|Drew]] (brother-in-law)
+	- [[Michael|Michael]] (father-in-law)
+	- [[Chloë|Chloë]] (mother-in-law)
+- Significant Other: [[Chevalier|Chevalier]]
 
-## Blade Name
-[] carries the blade [] (""). 
+##### Rider Information
+- Status: Not yet active
+- Dragon: [[Iustitia|Iustitia]]
+- Sword: [[Celöbra|Celöbra]] ("honor")
+- Magic: Dark red
+
+## History
