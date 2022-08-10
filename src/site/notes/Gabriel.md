@@ -10,12 +10,18 @@
 
 info
 
-**Known Names**
+##### Known Names
 - [], given by [], for 
 
-**Family & Relations**
-- Parentage: Unrecorded
-- Siblings: [[Chloë|Chloë]]
-- Extended Family: [[Drew|Drew]], [[Chevalier|Chevalier]]
-- Significant Other: Unrecorded
-- Children: [[Benjamin|Benjamin]]
+##### Family & Relations
+- Parentage:
+	- [[Lord Blake|Lord Blake]] (biological)
+- Siblings: 
+	- [[Chloë|Chloë]]
+- Extended Family: 
+	- [[Michael|Michael]] (brother-in-law)
+	- [[Drew|Drew]] (nephew)
+	- [[Chevalier|Chevalier]] (nephew)
+- Significant Other: [[Sophie|Sophie]]
+- Children: 
+	- [[Benjamin|Benjamin]]
