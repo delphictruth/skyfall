@@ -10,11 +10,14 @@
 
 info
 
-**Known Names**
+##### Known Names
 - [], given by [], for 
 
-**Family & Relations**
+##### Family & Relations
 - Parentage: 
-- Siblings:
+	- [[Coreen|Coreen]]
+	- [[Erickson|Erickson]]
+- Siblings: 
+	- [[Lacrimosa|Lacrimosa]]
 - Extended Family:
-- Significant Other:
+- Significant Other: [[Juliette|Juliette]]
