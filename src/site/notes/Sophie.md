@@ -10,11 +10,17 @@
 
 info
 
-**Known Names**
+##### Known Names
 - [], given by [], for 
 
-**Family & Relations**
+##### Family & Relations
 - Parentage: Unrecorded
 - Siblings: None on record
-- Extended Family: [[Chloë|Chloë]], [[Michael|Michael]], 
-- Significant Other:
+- Extended Family: 
+	- [[Chloë|Chloë]] (sister-in-law) 
+		- [[Michael|Michael]] (brother-in-law via Chloë)
+	- [[Drew|Drew]] (nephew)
+	- [[Chevalier|Chevalier]] (nephew)
+- Significant Other: [[Gabriel|Gabriel]]
+- Children:
+	- [[Benjamin|Benjamin]]
