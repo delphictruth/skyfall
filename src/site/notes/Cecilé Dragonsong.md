@@ -10,19 +10,32 @@
 
 Cecilé was a 31 year old [[Human|human]] with [[Elves|elven]] blood and an [[Ambassador|Ambassador]] from [[Ellesméra|Ellesméra]]. Although she herself is not technically considered a princess (nor is there formally such a title), as [[Byron Könungr|Byron Könungr]]'s daughter and [[Holland Dröttningu|Holland Dröttningu]]'s half-sister she was still treated as such among the elves.  
 
-**Recorded Names**
+## Personal Information
+
+##### Recorded Names
 - Dragonsong, given by [[Dragon Rider|Riders]], for her affinity for the dragons and how she sung for them
 - Starlight, given by [[Zaniel|Zaniel]] and wild dragons, for her bright demeanor 
 - Little Dragon, given by the [[Dragon Rider|Riders]] and wild dragons, more so in childhood
 - Friend of the Werecats, typical of those with Werecat companions
 - Dröttningu, very rarely, for her relation to [[Byron Könungr|Byron Könungr]] and [[Holland Dröttningu|Holland Dröttningu]]
 
-**Family & Relations**
-- Parentage: [[Melody Rosesinger|Melody Rosesinger]] and [[Byron Könungr|Byron Könungr]]
-- Siblings: [[Holland Dröttningu|Holland Dröttningu]]
-- Extended Family: [[Cain Dreamwalker|Cain Dreamwalker]], [[Talia Stormchaser|Talia Stormchaser]], [[Malkyn Warhound|Malkyn Warhound]], [[Cole|Cole]]
+##### Family & Relations
+- Parentage: 
+	- [[Melody Rosesinger|Melody Rosesinger]] (biological)
+	- [[Byron Könungr|Byron Könungr]] (biological)
+- Siblings:
+	- [[Holland Dröttningu|Holland Dröttningu]]
+- Extended Family: 
+	- [[Cain Dreamwalker|Cain Dreamwalker]] (brother-in-law)
+		- [[Talia Stormchaser|Talia Stormchaser]] (sister-in-law via Cain)
+		- [[Malkyn Warhound|Malkyn Warhound]] (sister-in-law via Talia)
+	- [[Cole|Cole]] (nephew)
+	- [[Arabella|Arabella]] (mother-in-law)
+	- [[Wilhelm|Wilhelm]] (father-in-law)
 - Significant Other: [[Raegal|Raegal]]
-- Children: [[Bastille Soulkeeper|Bastille Soulkeeper]], [[Versailles Silverblade|Versailles Silverblade]]
+- Children: 
+	- [[Bastille Soulkeeper|Bastille Soulkeeper]]
+	- [[Versailles Silverblade|Versailles Silverblade]]
 
 ## History
 Cecilé's existence is somewhat puzzling to the outside observer, given her father's happy relationship with [[Iasis Dröttning|Iasis Dröttning]]. However, elven children are exceedingly rare, and the Queen was never able to have another after [[Holland Dröttningu|Holland Dröttningu]]. It is said that [[Iasis Dröttning|Iasis Dröttning]] herself arranged for [[Melody Rosesinger|Melody Rosesinger]] to act as a surrogate, though ultimately Celicé was treated more like a neice than a foster-daughter by the Queen. 
