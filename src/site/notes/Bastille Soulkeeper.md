@@ -28,14 +28,18 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 - Siblings: [[Versailles Silverblade|Versailles Silverblade]]
 - Extended Family: 
 	- [[Holland Dröttningu|Holland Dröttningu]] (aunt)
-	- [[Cain Dreamwalker|Cain Dreamwalker]] (uncle)
-	- [[Talia Stormchaser|Talia Stormchaser]] (aunt)
-	- [[Malkyn Warhound|Malkyn Warhound]] (aunt)
+		- [[Cain Dreamwalker|Cain Dreamwalker]] (uncle via Holland)
+		- [[Talia Stormchaser|Talia Stormchaser]] (aunt via Holland)
+		- [[Malkyn Warhound|Malkyn Warhound]] (aunt via Talia)
 	- [[Cole|Cole]] (cousin)
+	- [[Melody Rosesinger|Melody Rosesinger]] (grandmother)
+	- [[Byron Könungr|Byron Könungr]] (grandfather)
+	- [[Arabella|Arabella]] (grandmother)
+	- [[Wilhelm|Wilhelm]] (grandfather)
 - Significant Other: [[Hazel Goldenblood|Hazel Goldenblood]]
 
 **Rider Information**
-- Status: Active
+- Status: Dragon Rider
 - Dragon: [[Octavia|Octavia]]
 - Sword: [[Aiedail|Aiedail]] ("morning-star")
 - Magic: Black
