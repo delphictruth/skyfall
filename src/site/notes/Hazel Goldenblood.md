@@ -10,7 +10,9 @@
 
 Hazel is an 18 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Arion|Arion]]. She is the bastard daughter of [[King Pirphal|King Pirphal]] of [[Surda|Surda]], which technically makes her a princess, but she isn't aware of this. 
 
-**Recorded Names**
+## Personal Information
+
+##### Recorded Names
 - Hagathasdaughter, given by [[Human|humans]], for her heritage
 - Goldenblood / of the golden blood, given by [[Elves|elves]], for her blood
 - Starryeyes / of the stars, given by [[Grimm|Grimm]], for her eyes 
@@ -21,11 +23,20 @@ Hazel is an 18 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Ar
 - Shadeslayer, after killing a [[Shade|Shade]]
 - Hrethcarach, [[Dwarvish|Dwarvish]] for "Shadeslayer"
 
-**Family & Relations**
-- Parentage: [[Hagatha|Hagatha]] and [[King Pirphal|King Pirphal]]
-- Siblings: 
+##### Family & Relations
+- Parentage: 
+	- [[Hagatha|Hagatha]] (biological)
+	- [[King Pirphal|King Pirphal]] (biological)
+- Siblings: None on record
 - Extended Family: 
+	- [[Hadrian|Hadrian]] (uncle)
+	- [[Cadmus|Cadmus]] (cousin)
 - Significant Other: [[Bastille Soulkeeper|Bastille Soulkeeper]]
 
-## Islingr
-Hazel carries the blade [[Islingr|Islingr]] ("light-bringer"). 
+**Rider Information**
+- Status: Apprentice
+- Dragon: [[Arion|Arion]]
+- Sword: [[Islingr|Islingr]] ("light-bringer")
+- Magic: Gold
+
+## History
