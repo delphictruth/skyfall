@@ -9,3 +9,11 @@
 >The secret sorceress
 
 [[Hazel Goldenblood|Hazel Goldenblood]]'s mother.
+
+##### Family & Relations
+- Parentage: Unrecorded
+- Siblings: None on record
+- Extended Family:
+- Significant Other: 
+- Children:
+	- [[Hazel Goldenblood|Hazel Goldenblood]]
