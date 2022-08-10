@@ -10,10 +10,10 @@
 
 info
 
-**Known Names**
+##### Known Names
 - [], given by [], for 
 
-**Family & Relations**
+##### Family & Relations
 - Parentage: 
 - Siblings:
 - Extended Family:
