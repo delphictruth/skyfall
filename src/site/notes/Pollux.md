@@ -7,3 +7,5 @@
 
 # Pollux
 Pollux was a teal-green [[Dragon|dragon]], bonded to []. 
+
+maybe raphael's dragon
