@@ -18,4 +18,5 @@ The blades of these swords are made to match the scales of the Rider's [[Dragon|
 - [[Dreyma|Dreyma]] ([[Chevalier|Chevalier]])
 - [[Vaerorúm|Vaerorúm]] ([[Talia Stormchaser|Talia Stormchaser]])
 - [[Blödhren|Blödhren]] ([[Malkyn Warhound|Malkyn Warhound]])
-- [[Und|Und]] ([[Cain Dreamwalker|Cain Dreamwalker]])
+- [[Undhelgr|Undhelgr]] ([[Cain Dreamwalker|Cain Dreamwalker]])
+- [[Celöbra|Celöbra]] ([[Lacrimosa|Lacrimosa]])
