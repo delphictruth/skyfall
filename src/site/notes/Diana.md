@@ -8,9 +8,16 @@
 # Diana
 [[Michael|Michael]]'s mother. 
 
-**Family & Relations**
+##### Family & Relations
 - Parentage: Unrecorded
 - Siblings: None on record
-- Extended Family: [[Chloë|Chloë]], [[Drew|Drew]], [[Chevalier|Chevalier]], [[Gabriel|Gabriel]], [[Benjamin|Benjamin]]
+- Extended Family: 
+	- [[Chloë|Chloë]]
+	- [[Drew|Drew]]
+	- [[Chevalier|Chevalier]]
+	- [[Gabriel|Gabriel]]
+	- [[Benjamin|Benjamin]]
 - Significant Other: [[Christopher|Christopher]]
-- Children: [[Michael|Michael]], [[Stephen|Stephen]]
+- Children:
+	- [[Michael|Michael]]
+	- [[Stephen|Stephen]]
