@@ -8,21 +8,21 @@
 # Directory
 ## Characters
 ### Dragon Riders
-| Rider                                                 | Dragon                                            | Sword                     | Affiliation                   | Status                    |
-| ----------------------------------------------------- | ------------------------------------------------- | ------------------------- | ----------------------------- | ------------------------- |
-| [[Bastille Soulkeeper.md\|Bastille Soulkeeper]]       | [Octavia](https://icskyfall.netlify.app/octavia/) | [[Aiedail.md\|Aiedail]]   | [[New Rider Order.md\|Order]] | Active                    |
-| [[Cain Dreamwalker.md\|Cain Dreamwalker]]             | [[Kveykva.md\|Kveykva]]                           | [[Undhelgr.md\|Undhelgr]] | [[New Rider Order.md\|Order]] | [[Indlvarn.md\|Indlvarn]] |
-| [[Chevalier.md\|Chevalier]]                           | [[Lilith.md\|Lilith]]                             | [[Dreyma.md\|Dreyma]]     | [[New Rider Order.md\|Order]] | Active                    |
-| [[Cole.md\|Cole]]                                     | \-                                                | \-                        | [[New Rider Order.md\|Order]] | Future                    |
-| [[Hazel Goldenblood.md\|Hazel Goldenblood]]           | [[Arion.md\|Arion]]                               | [[Islingr.md\|Islingr]]   | [[New Rider Order.md\|Order]] | Active                    |
-| [[Indigo.md\|Indigo]]                                 | [[Echo.md\|Echo]]                                 | \-                        | [[New Rider Order.md\|Order]] | Deceased                  |
-| [[Lacrimosa.md\|Lacrimosa]]                           | [[Iustitia\|Iustitia]]                            | [[Celöbra.md\|Celöbra]]   | [[New Rider Order.md\|Order]] | Active                    |
-| [[Malkyn Warhound.md\|Malkyn Warhound]]               | [[Vahren.md\|Vahren]]                             | [[Blödhren.md\|Blödhren]] | [[New Rider Order.md\|Order]] | Active                    |
-| [[Michael.md\|Michael]]                               | [[Niernen.md\|Niernen]]                           | \-                        | [[New Rider Order.md\|Order]] | Deceased                  |
-| [[Raegal.md\|Raegal]]                                 | [[Eldfyrn.md\|Eldfyrn]]                           | \-                        | [[New Rider Order.md\|Order]] | Deceased                  |
-| [[Raphael.md\|Raphael]]                               | \-                                                | \-                        | [[Fallen Riders.md\|Fallen]]  | Deceased                  |
-| [[Talia Stormchaser.md\|Talia Stormchaser]]           | [[Priya.md\|Priya]]                               | [[Vaerorúm.md\|Vaerorúm]] | [[New Rider Order.md\|Order]] | Active                    |
-| [[Versailles Silverblade.md\|Versailles Silverblade]] | \-                                                | \-                        | [[Fallen Riders.md\|Fallen]]  | Future                    |
+| Rider                                                 | Dragon                  | Sword                     | Affiliation                   | Status                    |
+| ----------------------------------------------------- | ----------------------- | ------------------------- | ----------------------------- | ------------------------- |
+| [[Bastille Soulkeeper.md\|Bastille Soulkeeper]]       | [[Octavia.md\|Octavia]] | [[Aiedail.md\|Aiedail]]   | [[New Rider Order.md\|Order]] | Active                    |
+| [[Cain Dreamwalker.md\|Cain Dreamwalker]]             | [[Kveykva.md\|Kveykva]] | [[Undhelgr.md\|Undhelgr]] | [[New Rider Order.md\|Order]] | [[Indlvarn.md\|Indlvarn]] |
+| [[Chevalier.md\|Chevalier]]                           | [[Lilith.md\|Lilith]]   | [[Dreyma.md\|Dreyma]]     | [[New Rider Order.md\|Order]] | Active                    |
+| [[Cole.md\|Cole]]                                     | \-                      | \-                        | [[New Rider Order.md\|Order]] | Future                    |
+| [[Hazel Goldenblood.md\|Hazel Goldenblood]]           | [[Arion.md\|Arion]]     | [[Islingr.md\|Islingr]]   | [[New Rider Order.md\|Order]] | Active                    |
+| [[Indigo.md\|Indigo]]                                 | [[Echo.md\|Echo]]       | \-                        | [[New Rider Order.md\|Order]] | Deceased                  |
+| [[Lacrimosa.md\|Lacrimosa]]                           | [[Iustitia\|Iustitia]]  | [[Celöbra.md\|Celöbra]]   | [[New Rider Order.md\|Order]] | Active                    |
+| [[Malkyn Warhound.md\|Malkyn Warhound]]               | [[Vahren.md\|Vahren]]   | [[Blödhren.md\|Blödhren]] | [[New Rider Order.md\|Order]] | Active                    |
+| [[Michael.md\|Michael]]                               | [[Niernen.md\|Niernen]] | \-                        | [[New Rider Order.md\|Order]] | Deceased                  |
+| [[Raegal.md\|Raegal]]                                 | [[Eldfyrn.md\|Eldfyrn]] | \-                        | [[New Rider Order.md\|Order]] | Deceased                  |
+| [[Raphael.md\|Raphael]]                               | \-                      | \-                        | [[Fallen Riders.md\|Fallen]]  | Deceased                  |
+| [[Talia Stormchaser.md\|Talia Stormchaser]]           | [[Priya.md\|Priya]]     | [[Vaerorúm.md\|Vaerorúm]] | [[New Rider Order.md\|Order]] | Active                    |
+| [[Versailles Silverblade.md\|Versailles Silverblade]] | \-                      | \-                        | [[Fallen Riders.md\|Fallen]]  | Future                    |
 
 ### Dragons
 | Dragon                  | Rider                                           | Born As | Affiliaton                    | Status                    |
