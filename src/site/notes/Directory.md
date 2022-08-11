@@ -8,7 +8,7 @@
 # Directory
 ## Characters
 ### Dragon Riders
-| Rider                                                 | Dragon                  | Sword                     | Affiliation                   | Status                    |
+| File                                                  | Dragon                  | Sword                     | Affiliation                   | Status                    |
 | ----------------------------------------------------- | ----------------------- | ------------------------- | ----------------------------- | ------------------------- |
 | [[Bastille Soulkeeper.md\|Bastille Soulkeeper]]       | [[Octavia.md\|Octavia]] | [[Aiedail.md\|Aiedail]]   | [[New Rider Order.md\|Order]] | Active                    |
 | [[Cain Dreamwalker.md\|Cain Dreamwalker]]             | [[Kveykva.md\|Kveykva]] | [[Undhelgr.md\|Undhelgr]] | [[New Rider Order.md\|Order]] | [[Indlvarn.md\|Indlvarn]] |
