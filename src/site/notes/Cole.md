@@ -6,7 +6,7 @@
 - [[Timeline|To Timeline]]
 
 # Cole
->Son of
+>tag
 
 Cole is a [] year old [] [[Dragon Rider|Rider]], bonded with []. Brief info.
 
