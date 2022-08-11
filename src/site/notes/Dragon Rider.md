@@ -23,3 +23,21 @@ Riders and their dragons are trained by elder bonded pairs known as masters. The
 
 ## Combat 
 All Dragon Riders wield [[Rider's sword|Rider's sword]] crafted for them individually by the [[Elves|elven]] smith, [[Rhunön|Rhunön]]. They typically receive their sword towards the end of their first phase of training, when they graduate from practice swords to their chosen blade.
+
+## Reference Chart
+| Rider                  | Dragon   | Sword    | Affiliation                  | Status   |
+| ---------------------- | -------- | -------- | ---------------------------- | -------- |
+| Bastille Soulkeeper    | Octavia  | Aiedail  | Order                        | Active   |
+| Cain Dreamwalker       | Kveykva  | Undhelgr | Order                        | Indlvarn |
+| Chevalier              | Lilith   | Dreyma   | Order                        | Active   |
+| Cole                   | \-       | \-       | Order                        | Future   |
+| Hazel Goldenblood      | Arion    | Islingr  | Order                        | Active   |
+| Indigo                 | Echo     | \-       | Order                        | Deceased |
+| Lacrimosa              | Iustitia | Celöbra  | Order                        | Active   |
+| Malkyn Warhound        | Vahren   | Blödhren | Order                        | Active   |
+| Michael                | Niernen  | \-       | New Rider Order\|Order       | Deceased |
+| Raegal                 | Eldfyrn  | \-       | Order, Fallen                | Deceased |
+| Raphael                | \-       | \-       | Fallen                       | Deceased |
+| Talia Stormchaser      | Priya    | Vaerorúm | Order                        | Active   |
+| Versailles Silverblade | \-       | \-       | [[Fallen Riders.md\|Fallen]] | Future   |
+
