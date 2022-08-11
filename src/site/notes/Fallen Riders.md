@@ -15,3 +15,4 @@ It is said that [[King Pirphal|King Pirphal]] conducted many magical experiments
 This force was later merged with those that defected from the [[New Rider Order|New Rider Order]], after [[King Pirphal|King Pirphal]] recruited [[Raegal|Raegal]] to train his remaining Riders. This is when they started to be referred to as the Fallen Riders, though they had originally be called the "King's Riders".
 
 The dragons tend to call them "lost ones" or "Lost Riders". This name has also been adopted and been used interchangeably by some of the Riders. Others refer to them as the [[Forsworn|Forsworn]] reborn.
+
