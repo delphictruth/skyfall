@@ -117,16 +117,20 @@
 ### Locations
 | Location                                  | Nation                                     | Type      | Located In                                 |
 | ----------------------------------------- | ------------------------------------------ | --------- | ------------------------------------------ |
+| [[Aberon.md\|Aberon]]                     | [[Surda.md\|Surda]]                        | Capital   | [[Surda.md\|Surda]]                        |
 | [[Alagaësia.md\|Alagaësia]]               | N/A                                        | Continent | Sea                                        |
+| [[Aroughs.md\|Aroughs]]                   | [[Surda.md\|Surda]]                        | City      | [[Surda.md\|Surda]]                        |
 | [[Belatona.md\|Belatona]]                 | [[Broddring Empire.md\|Broddring Kingdom]] | City      | [[Broddring Empire.md\|Broddring Kingdom]] |
 | [[Beor Mountains.md\|Beor Mountains]]     | [[Dwarves.md\|Dwarven]]                    | Mountains | [[Beor Mountains.md\|Beor Mountains]]      |
 | [[Broddring Empire.md\|Broddring Empire]] | [[Broddring Empire.md\|Broddring Kingdom]] | Nation    | [[Alagaësia.md\|Alagaësia]]                |
+| [[Dauth.md\|Dauth]]                       | [[Surda.md\|Surda]]                        | City      | [[Surda.md\|Surda]]                        |
 | [[Doru Araeba.md\|Doru Araeba]]           | [[New Rider Order.md\|New Rider Order]]    | City      | [[Vroengard.md\|Vroengard]]                |
 | [[Dragonhold.md\|Dragonhold]]             | [[Dwarves.md\|Dwarven]]                    | Place     | [[Tronjheim.md\|Tronjheim]]                |
 | [[Dras-Leona.md\|Dras-Leona]]             | [[Broddring Empire.md\|Broddring Kingdom]] | City      | [[Broddring Empire.md\|Broddring Kingdom]] |
 | [[Du Weldenvarden.md\|Du Weldenvarden]]   | [[Elves.md\|Elven]]                        | Forest    | [[Alagaësia.md\|Alagaësia]]                |
 | [[Ellesméra.md\|Ellesméra]]               | [[Elves.md\|Elven]]                        | Capital   | [[Du Weldenvarden.md\|Du Weldenvarden]]    |
 | [[Farthen Dûr.md\|Farthen Dûr]]           | [[Dwarves.md\|Dwarven]]                    | Mountain  | [[Beor Mountains.md\|Beor Mountains]]      |
+| [[Feinster.md\|Feinster]]                 | [[Surda.md\|Surda]]                        | City      | [[Surda.md\|Surda]]                        |
 | [[Gil'ead.md\|Gil'ead]]                   | [[Broddring Empire.md\|Broddring Kingdom]] | City      | [[Broddring Empire.md\|Broddring Kingdom]] |
 | [[Ilirea.md\|Ilirea]]                     | [[Broddring Empire.md\|Broddring Kingdom]] | Capital   | [[Broddring Empire.md\|Broddring Kingdom]] |
 | [[Menoa Tree.md\|Menoa Tree]]             | [[Elves.md\|Elven]]                        | Place     | [[Ellesméra.md\|Ellesméra]]                |
