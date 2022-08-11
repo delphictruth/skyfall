@@ -6,7 +6,7 @@
 - [[Timeline|To Timeline]]
 
 # Second Rider Rebellion
->year AC
+>679-683 ABRW
 
 After their defeat in the [[First Rider Rebellion|First Rider Rebellion]] and the capture of their commander, the remaining [[Fallen Riders|Fallen Riders]] returned to [[Surda|Surda]] and essentially disappeared. 
 
