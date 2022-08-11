@@ -20,3 +20,18 @@ Dragons contain a "heart of hearts," also known as an [[Eldunarí|Eldunarí]]. I
 Dragons are ready to hatch very shortly after their eggs are laid. Those that are given to the [[Dragon Rider|Riders]] are considered "Rider eggs," which the dragons are able to sense are destined for a particular [[Dragon Rider|Rider]]. Those eggs will remain in stasis for as long as it takes for them to find that [[Dragon Rider|Rider]]. Wild eggs, in contrast, typically hatch within a week or two.
 
 Dragons once hatched grow very rapidly. They are about the size of a kitten, or sometimes a younger house cat, when hatched. Within a month, they are typically large enough to carry a [[Dragon Rider|Rider]] or two in flight. They never truly stop growing; a dragon will continue to grow for as long as they live, with the eldest of dragons also being the largest. The gain the ability to breathe fire around six months. 
+
+## Reference Chart
+| Dragon  | Rider               | Born As | Affiliation   | Status   |
+| ------- | ------------------- | ------- | ------------- | -------- |
+| Arion   | Hazel Goldenblood   | Bonded  | Order         | Active   |
+| Echo    | Indigo              | Bonded  | Order         | Eldunarí |
+| Eldfyrn | Raegal              | Bonded  | Order, Fallen | Deceased |
+| Grimm   | N/A                 | Wild    | N/A           | Eldunarí |
+| Kveykva | Cain Dreamwalker    | Bonded  | Order         | Indlvarn |
+| Niernen | Michael             | Bonded  | Order         | Eldunarí |
+| Octavia | Bastille Soulkeeper | Wild    | Order         | Active   |
+| Pollux  | \-                  | Bonded  | Fallen        | Eldunarí |
+| Priya   | Talia Stormchaser   | Bonded  | Order         | Active   |
+| Vahren  | Malkyn Warhound     | Bonded  | Order         | Active   |
+| Zaniel  | N/A                 | Wild    | N/A           | Eldunarí |
