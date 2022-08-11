@@ -41,7 +41,6 @@ Bastille is a 20 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[
 	- [[Arabella|Arabella]] (grandmother)
 	- [[Wilhelm|Wilhelm]] (grandfather)
 - Significant Other: [[Hazel Goldenblood|Hazel Goldenblood]]
-- Dragon:: [[Octavia|Octavia]]
 
 ##### Rider Information
 - Status: Dragon Rider
