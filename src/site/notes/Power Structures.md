@@ -5,6 +5,30 @@
 - [[SKYFALL|Back to Home]]
 - [[Timeline|To Timeline]]
 
+# All Nobility Across Alagaësia
+| Character           | Affiliation | Role                          | City                          |
+| ------------------- | ----------- | ----------------------------- | ----------------------------- |
+| Arabella            | Broddring   | Lady                          | [[Dras-Leona.md\|Dras-Leona]] |
+| Bastille Soulkeeper | Elven       | Hilmir                        | \-                            |
+| Benjamin            | Broddring   | Heir                          | [[Belatona.md\|Belatona]]     |
+| Byron Könungr       | Elven       | King                          | [[Ellesméra.md\|Ellesméra]]   |
+| Cadmus              | Surda       | Prince                        | \-                            |
+| Cecilé Dragonsong   | Elven       | [[Ambassador.md\|Ambassador]] | [[Ellesméra.md\|Ellesméra]]   |
+| Chloë               | Broddring   | Ex-Heir                       | [[Belatona.md\|Belatona]]     |
+| Felicity            | Broddring   | [[Ambassador.md\|Ambassador]] | [[Ilirea.md\|Ilirea]]         |
+| Gabriel             | Broddring   | Lord                          | [[Belatona.md\|Belatona]]     |
+| Hadrian             | Surda       | \-                            | \-                            |
+| Hasina              | Broddring   | Lady                          | [[Gil'ead.md\|Gil'ead]]       |
+| Hazel Goldenblood   | Surda       | Princess                      | \-                            |
+| Holland Dröttningu  | Elven       | Dröttningu                    | Ellesméra                     |
+| Iasis Dröttning     | Elven       | Queen                         | [[Ellesméra.md\|Ellesméra]]   |
+| King Pirphal        | Surda       | King                          | \-                            |
+| Lacrimosa           | Broddring   | N/A                           | Gil'ead                       |
+| Lord Blake          | Broddring   | Lord                          | [[Belatona.md\|Belatona]]     |
+| Sophie              | Broddring   | Lady                          | [[Belatona.md\|Belatona]]     |
+| Table Coding Etc    | \-          | \-                            | \-                            |
+| Wilhelm             | Broddring   | Lord                          | [[Dras-Leona.md\|Dras-Leona]] |
+
 # Broddring Kingdom
 The Kingdom is technically a monarchy, but the ruling powers of the major cities are members of a Council with some voting authority on major reforms. The Council was formally imposed in 250 ABRW. 
 
