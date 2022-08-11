@@ -8,7 +8,7 @@
 # Chevalier 
 >Son of
 
-Chevalier is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with []. He carries the blade [[Dreyma|Dreyma]] ("illusion"). Brief info.
+Chevalier is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Lilith|Lilith]]. He carries the blade [[Dreyma|Dreyma]] ("illusion"). Brief info.
 
 ## Personal Information
 
