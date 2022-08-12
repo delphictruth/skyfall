@@ -22,16 +22,31 @@ Dragons are ready to hatch very shortly after their eggs are laid. Those that ar
 Dragons once hatched grow very rapidly. They are about the size of a kitten, or sometimes a younger house cat, when hatched. Within a month, they are typically large enough to carry a [[Dragon Rider|Rider]] or two in flight. They never truly stop growing; a dragon will continue to grow for as long as they live, with the eldest of dragons also being the largest. The gain the ability to breathe fire around six months. 
 
 ## Reference Chart
-| Dragon  | Rider               | Born As | Affiliation   | Status   |
-| ------- | ------------------- | ------- | ------------- | -------- |
-| Arion   | Hazel Goldenblood   | Bonded  | Order         | Active   |
-| Echo    | Indigo              | Bonded  | Order         | Eldunarí |
-| Eldfyrn | Raegal              | Bonded  | Order, Fallen | Deceased |
-| Grimm   | N/A                 | Wild    | N/A           | Eldunarí |
-| Kveykva | Cain Dreamwalker    | Bonded  | Order         | Indlvarn |
-| Niernen | Michael             | Bonded  | Order         | Eldunarí |
-| Octavia | Bastille Soulkeeper | Wild    | Order         | Active   |
-| Pollux  | \-                  | Bonded  | Fallen        | Eldunarí |
-| Priya   | Talia Stormchaser   | Bonded  | Order         | Active   |
-| Vahren  | Malkyn Warhound     | Bonded  | Order         | Active   |
-| Zaniel  | N/A                 | Wild    | N/A           | Eldunarí |
+| Dragon      | Rider                  | Born As | Affiliation   | Status   |
+| ----------- | ---------------------- | ------- | ------------- | -------- |
+| Arion       | Hazel Goldenblood      | Bonded  | Order         | Active   |
+| Augustus    | Versailles Silverblade | Bonded  | Fallen        | Future   |
+| Baskerville | Benjamin               | Bonded  | Order         | Future   |
+| Bräe        | Theron                 | Bonded  | Fallen        | Active   |
+| Della       | \-                     | \-      | \-            | \-       |
+| Deloi       | Jinora                 | Bonded  | Order         | Active   |
+| Dulfr       | \-                     | \-      | \-            | \-       |
+| Echo        | Indigo                 | Bonded  | Order         | Eldunarí |
+| Eldfyrn     | Raegal                 | Bonded  | Order, Fallen | Deceased |
+| Elmaum      | Raphael                | Bonded  | Fallen        | Deceased |
+| Fëon        | \-                     | \-      | \-            | \-       |
+| Grimm       | N/A                    | Wild    | N/A           | Eldunarí |
+| Guluä       | Cole                   | Bonded  | Order         | Future   |
+| Iustitia    | Lacrimosa              | Bonded  | Order         | Active   |
+| Kveykva     | Cain Dreamwalker       | Bonded  | Order         | Indlvarn |
+| Lilith      | Chevalier              | \-      | \-            | \-       |
+| Niernen     | Michael                | Bonded  | Order         | Eldunarí |
+| Octavia     | Bastille Soulkeeper    | Wild    | Order         | Active   |
+| Pollux      | Isaak                  | Bonded  | Fallen        | Eldunarí |
+| Priya       | Talia Stormchaser      | Bonded  | Order         | Active   |
+| Siren       | Ai Wildwaters          | Bonded  | Order         | Active   |
+| Vaetna      | Sēth                   | Bonded  | Fallen        | Eldunarí |
+| Vahren      | Malkyn Warhound        | Bonded  | Order         | Active   |
+| Vinväe      | Yelmi                  | \-      | \-            | \-       |
+| Vladimir    | Evelynn                | Bonded  | Order         | Active   |
+| Zaniel      | N/A                    | Wild    | N/A           | Eldunarí |
