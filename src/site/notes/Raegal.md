@@ -36,5 +36,5 @@ Raegal was a 31 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[E
 ##### Rider Information
 - Status: Deceased (Dragon Rider)
 - Dragon: [[Eldfyrn|Eldfyrn]]
-- Sword: 
+- Sword: [[Wyrda|Wyrda]]
 - Magic: Red 
