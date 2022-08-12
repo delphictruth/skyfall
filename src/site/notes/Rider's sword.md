@@ -20,3 +20,4 @@ The blades of these swords are made to match the scales of the Rider's [[Dragon|
 - [[Blödhren|Blödhren]] ([[Malkyn Warhound|Malkyn Warhound]])
 - [[Undhelgr|Undhelgr]] ([[Cain Dreamwalker|Cain Dreamwalker]])
 - [[Celöbra|Celöbra]] ([[Lacrimosa|Lacrimosa]])
+- [[Vaerskálpr|Vaerskálpr]] ([[Ai Wildwaters|Ai Wildwaters]])
