@@ -34,7 +34,7 @@ Versailles is a [] year old [] [[Dragon Rider|Rider]], bonded with []. Brief inf
 
 ##### Rider Information
 - Status: Not yet active 
-- Dragon:
+- Dragon: [[Augustus|Augustus]]
 - Sword:
 - Magic: Purple 
 
