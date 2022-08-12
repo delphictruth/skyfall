@@ -25,19 +25,30 @@ Riders and their dragons are trained by elder bonded pairs known as masters. The
 All Dragon Riders wield [[Rider's sword|Rider's sword]] crafted for them individually by the [[Elves|elven]] smith, [[Rhunön|Rhunön]]. They typically receive their sword towards the end of their first phase of training, when they graduate from practice swords to their chosen blade.
 
 ## Reference Chart
-| Rider                  | Dragon   | Sword    | Affiliation                  | Status   |
-| ---------------------- | -------- | -------- | ---------------------------- | -------- |
-| Bastille Soulkeeper    | Octavia  | Aiedail  | Order                        | Active   |
-| Cain Dreamwalker       | Kveykva  | Undhelgr | Order                        | Indlvarn |
-| Chevalier              | Lilith   | Dreyma   | Order                        | Active   |
-| Cole                   | \-       | \-       | Order                        | Future   |
-| Hazel Goldenblood      | Arion    | Islingr  | Order                        | Active   |
-| Indigo                 | Echo     | \-       | Order                        | Deceased |
-| Lacrimosa              | Iustitia | Celöbra  | Order                        | Active   |
-| Malkyn Warhound        | Vahren   | Blödhren | Order                        | Active   |
-| Michael                | Niernen  | \-       | New Rider Order\|Order       | Deceased |
-| Raegal                 | Eldfyrn  | \-       | Order, Fallen                | Deceased |
-| Raphael                | \-       | \-       | Fallen                       | Deceased |
-| Talia Stormchaser      | Priya    | Vaerorúm | Order                        | Active   |
-| Versailles Silverblade | \-       | \-       | [[Fallen Riders.md\|Fallen]] | Future   |
+| Rider                  | Dragon      | Sword    | Affiliation   | Status   |
+| ---------------------- | ----------- | -------- | ------------- | -------- |
+| Ai Wildwaters          | Siren       | \-       | Order         | Active   |
+| Bastille Soulkeeper    | Octavia     | Aiedail  | Order         | Active   |
+| Benjamin               | Baskerville | \-       | Order         | Future   |
+| Cain Dreamwalker       | Kveykva     | Undhelgr | Order         | Indlvarn |
+| Calem                  | Della       | \-       | Fallen        | Active   |
+| Chevalier              | Lilith      | Dreyma   | Order         | Active   |
+| Cole                   | Guluä       | \-       | Order         | Future   |
+| Evelynn                | Vladimir    | \-       | Order         | Future   |
+| Hazel Goldenblood      | Arion       | Islingr  | Order         | Active   |
+| Indigo                 | Echo        | \-       | Order         | Deceased |
+| Isaak Bondbreaker      | Pollux      | \-       | Fallen        | Deceased |
+| Jinora                 | Deloi       | \-       | Order         | Active   |
+| Lacrimosa              | Iustitia    | Celöbra  | Order         | Active   |
+| Malkyn Warhound        | Vahren      | Blödhren | Order         | Active   |
+| Marcus                 | \-          | \-       | Fallen        | Deceased |
+| Michael                | Niernen     | \-       | Order         | Deceased |
+| Raegal                 | Eldfyrn     | Wyrda    | Order, Fallen | Deceased |
+| Raphael                | \-          | \-       | Fallen        | Deceased |
+| Roslyn                 | Fëon        | \-       | \-            | \-       |
+| Sēth                   | Vaetna      | \-       | Fallen        | Deceased |
+| Talia Stormchaser      | Priya       | Vaerorúm | Order         | Active   |
+| Theron                 | Bräe        | \-       | Fallen        | Active   |
+| Versailles Silverblade | Augustus    | \-       | Fallen        | Future   |
+| Yelmi                  | Vinvae      | \-       | Fallen        | Deceased |
 
