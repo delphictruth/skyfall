@@ -8,7 +8,7 @@
 # Cole
 >tag
 
-Cole is a [] year old [] [[Dragon Rider|Rider]], bonded with []. Brief info.
+Cole is a 16 year old [[Human|human]] with [[Elves|elven]] blood, a future [[Dragon Rider|Rider]] to be bonded with [[Guluä|Guluä]]. 
 
 ##### Recorded Names
 - [], given by [], for 
@@ -34,8 +34,8 @@ Cole is a [] year old [] [[Dragon Rider|Rider]], bonded with []. Brief info.
 
 ##### Rider Information
 - Status: Not yet active
-- Dragon: 
+- Dragon: [[Guluä|Guluä]]
 - Sword: 
-- Magic: 
+- Magic: Cream/white
 
 ## History
