@@ -8,12 +8,13 @@
 # Chevalier 
 >Son of
 
-Chevalier is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Lilith|Lilith]]. He carries the blade [[Dreyma|Dreyma]] ("illusion"). Brief info.
+Chevalier is a 23 year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [[Lilith|Lilith]]. 
 
 ## Personal Information
 
 ##### Recorded Names
 - [], given by [], for 
+- Haldaugya ("apple-eyes"), given by [[Elves|elves]], for his eyes
 
 ##### Family & Relations
 - Parentage:
@@ -32,8 +33,8 @@ Chevalier is a [] year old [[Human|human]] [[Dragon Rider|Rider]], bonded with [
 
 ##### Rider Information
 - Status: Dragon Rider
-- Dragon: 
-- Sword: [[Dreyma|Dreyma]]
+- Dragon: [[Lilith|Lilith]]
+- Sword: [[Dreyma|Dreyma]] ("illusion")
 - Magic: Apple green
 - Eldunarya:
 	- [[Niernen|Niernen]]
