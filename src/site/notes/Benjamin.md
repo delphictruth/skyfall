@@ -8,11 +8,11 @@
 # Benjamin
 >tag
 
-info
+Benjamin is a year old [[Human|human]]. He is a future [[Dragon Rider|Rider]], and will be bonded to [[Baskerville|Baskerville]].
 
 ## Personal Information
 
-##### Known Names
+#### Recorded Names
 - [], given by [], for 
 
 ##### Family & Relations
@@ -21,3 +21,11 @@ info
 - Siblings: None on record
 - Extended Family: [[Chloë|Chloë]], [[Michael|Michael]], [[Drew|Drew]], [[Chevalier|Chevalier]]
 - Significant Other: 
+
+##### Rider Information
+- Status: Future
+- Dragon: [[Baskerville|Baskerville]] 
+- Sword: 
+- Magic: Royal blue 
+
+## History
