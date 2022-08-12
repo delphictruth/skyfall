@@ -8,31 +8,56 @@
 # Directory
 ## Dragons and Riders
 ### Order Dragon Riders
+- [[Ai Wildwaters|Ai Wildwaters]]
 - [[Bastille Soulkeeper|Bastille Soulkeeper]]
 - [[Cain Dreamwalker|Cain Dreamwalker]]
 - [[Chevalier|Chevalier]]
+- [[Evelynn|Evelynn]]
 - [[Hazel Goldenblood|Hazel Goldenblood]]
 - [[Indigo|Indigo]]
+- [[Jinora|Jinora]]
 - [[Lacrimosa|Lacrimosa]]
 - [[Malkyn Warhound|Malkyn Warhound]]
 - [[Michael|Michael]]
 - [[Raegal|Raegal]]
+- [[Roslyn|Roslyn]]
 - [[Talia Stormchaser|Talia Stormchaser]]
 
 ### Fallen Dragon Riders
+- [[Calem|Calem]]
+- [[Isaak Bondbreaker|Isaak Bondbreaker]]
+- [[Marcus|Marcus]]
 - [[Raegal|Raegal]]
 - [[Raphael|Raphael]]
+- [[Sēth|Sēth]]
+- [[Theron|Theron]]
+- [[Yelmi|Yelmi]]
 
 ### Future Dragon Riders
+- [[Benjamin|Benjamin]]
 - [[Cole|Cole]]
 - [[Versailles Silverblade|Versailles Silverblade]]
 
 ### Dragons
 - [[Arion|Arion]]
+- [[Augustus|Augustus]]
+- [[Baskerville|Baskerville]]
+- [[Bräe|Bräe]]
+- [[Della|Della]]
+- [[Deloi|Deloi]]
+- [[Dulfr|Dulfr]]
 - [[Eldfyrn|Eldfyrn]]
+- [[Elmaum|Elmaum]]
+- [[Fëon|Fëon]]
+- [[Guluä|Guluä]]
+- [[Iustitia|Iustitia]]
+- [[Lilith|Lilith]]
 - [[Octavia|Octavia]]
 - [[Priya|Priya]]
+- [[Siren|Siren]]
 - [[Vahren|Vahren]]
+- [[Vinväe|Vinväe]]
+- [[Vladimir|Vladimir]]
 
 ### Eldunarya
 - [[Echo|Echo]]
@@ -40,6 +65,7 @@
 - [[Kveykva|Kveykva]]
 - [[Niernen|Niernen]]
 - [[Pollux|Pollux]]
+- [[Vaetna|Vaetna]]
 - [[Zaniel|Zaniel]]
 
 ## All Characters by Race
