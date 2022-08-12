@@ -10,9 +10,10 @@
 | ------------------- | ----------- | ----------------------------- | ----------------------------- |
 | Arabella            | Broddring   | Lady                          | [[Dras-Leona.md\|Dras-Leona]] |
 | Bastille Soulkeeper | Elven       | Hilmir                        | \-                            |
-| Benjamin            | Broddring   | Heir                          | [[Belatona.md\|Belatona]]     |
+| Benjamin            | Broddring   | Heir                          | Belatona                      |
 | Byron Könungr       | Elven       | King                          | [[Ellesméra.md\|Ellesméra]]   |
 | Cadmus              | Surda       | Prince                        | \-                            |
+| Calem               | Surda       | \-                            | \-                            |
 | Cecilé Dragonsong   | Elven       | [[Ambassador.md\|Ambassador]] | [[Ellesméra.md\|Ellesméra]]   |
 | Chloë               | Broddring   | Ex-Heir                       | [[Belatona.md\|Belatona]]     |
 | Felicity            | Broddring   | [[Ambassador.md\|Ambassador]] | [[Ilirea.md\|Ilirea]]         |
@@ -27,6 +28,7 @@
 | Lord Blake          | Broddring   | Lord                          | [[Belatona.md\|Belatona]]     |
 | Sophie              | Broddring   | Lady                          | [[Belatona.md\|Belatona]]     |
 | Table Coding Etc    | \-          | \-                            | \-                            |
+| Theron              | Surda       | \-                            | \-                            |
 | Wilhelm             | Broddring   | Lord                          | [[Dras-Leona.md\|Dras-Leona]] |
 
 # Broddring Kingdom
