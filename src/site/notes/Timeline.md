@@ -36,7 +36,7 @@
 
 **648 ABRW** — [[Raegal|Raegal]] is born in [[Dras-Leona|Dras-Leona]]. [[Talia Stormchaser|Talia Stormchaser]] is born in [[Ellesméra|Ellesméra]].
 
-**649 ABRW** — [[Cecilé Dragonsong|Cecilé Dragonsong]] is born in [[Ellesméra|Ellesméra]]. 
+**649 ABRW** — [[Cecilé Dragonsong|Cecilé Dragonsong]] is born in [[Ellesméra|Ellesméra]]. [[Isaak Bondbreaker|Isaak Bondbreaker]] is born. 
 
 **654 ABRW** — [[Felicity|Felicity]] is killed in the [[Broddring Empire|Broddring Kingdom]]'s transition of power; [[Cain Dreamwalker|Cain Dreamwalker]] [17] takes over care of [[Talia Stormchaser|Talia Stormchaser]] [6].
 
@@ -56,7 +56,7 @@
 
 **666 ABRW**[^3] — [[Raegal|Raegal]] [18] launches the [[First Rider Rebellion|First Rider Rebellion]], leading the King's Riders against the [[New Rider Order|New Rider Order]] and recruiting several others from [[Vroengard|Vroengard]]. They become known as the [[Fallen Riders|Fallen Riders]]. [[Indigo|Indigo]] [384] entrusts [[Echo|Echo]] [364]'s Eldunarí to the wild dragons. 
 
-**667 ABRW** — The [[First Rider Rebellion|First Rider Rebellion]] concludes when the majority of the [[Fallen Riders|Fallen Riders]] are defeated, with many disappearing. [[Raegal|Raegal]] [19] and [[Eldfyrn|Eldfyrn]] [4] are captured in the final battle, after killing [[Indigo|Indigo]] [385]. 
+**667 ABRW** — The [[First Rider Rebellion|First Rider Rebellion]] concludes when the majority of the [[Fallen Riders|Fallen Riders]] are defeated, with many disappearing. [[Raegal|Raegal]] [19] and [[Eldfyrn|Eldfyrn]] [4] are captured in the final battle, after killing [[Indigo|Indigo]] [385]. [[Isaak Bondbreaker|Isaak Bondbreaker]] [18] becomes commander of the remaining [[Fallen Riders|Fallen Riders]].
 
 **668 ABRW** — [[Cecilé Dragonsong|Cecilé Dragonsong]] [19] befriends [[Eldfyrn|Eldfyrn]] [5] in captivity, and later that same year [[Raegal|Raegal]] [20].
 
@@ -69,7 +69,7 @@
 
 **678 ABRW** — 
 
-**679 ABRW** — The [[Second Rider Rebellion|Second Rider Rebellion]] begins. At its peak, [[Raegal|Raegal]] [31] and [[Eldfyrn|Eldfyrn]] [16] kill three [[Fallen Riders|Fallen Riders]] and are killed in the process. [[Niernen|Niernen]] is killed in the same battle. 
+**679 ABRW** — The [[Second Rider Rebellion|Second Rider Rebellion]] begins. At its peak, [[Raegal|Raegal]] [31] and [[Eldfyrn|Eldfyrn]] [16] kill three [[Fallen Riders|Fallen Riders]] ([[Isaak Bondbreaker|Isaak Bondbreaker]] [30], [[Marcus|Marcus]], [[Yelmi|Yelmi]]) and their dragons ([[Pollux|Pollux]], [[Dulfr|Dulfr]], [[Vinväe|Vinväe]]) and are killed in the process. [[Niernen|Niernen]] is killed in the same battle. 
 
 **680 ABRW** — [[Bastille Soulkeeper|Bastille Soulkeeper]] and [[Versailles Silverblade|Versailles Silverblade]] are born. [[Cecilé Dragonsong|Cecilé Dragonsong]] [31] dies under mysterious circumstances in childbirth. 
 
