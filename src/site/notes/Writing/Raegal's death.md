@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/raegal-s-death/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/writing/raegal-s-death/","dgEnableSearch":false}
 ---
 
 # Chapter 5 ish
