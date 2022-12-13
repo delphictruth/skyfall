@@ -10,7 +10,6 @@
 
 The Ancient Language is known as the [[Elves\|elves]]' language, but it is also the language of [[Magic\|magic]]. 
 
-
 ## Language Conventions
 A lot of grammar is conveyed by modifying the original word itself. The Ancient Language is also just weird in a lot of ways, such as having no "-ing" form — instead, it uses the plural form of a word or simply the original word itself to encompass the term ("eldrvarya" for "burning" is literally "burns," the plural of eldrvarí). Adjectives usually follow the modified noun, but not always.
 
