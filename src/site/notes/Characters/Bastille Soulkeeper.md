@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/characters/bastille-soulkeeper/"}
 ---
 
-- [[SKYFALL\|Back to Home]]
-- [[Timeline\|To Timeline]]
 
 # Bastille Soulkeeper
 >Favored of the dragons
